@@ -2,3 +2,20 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.my {
+  margin-bottom: 10%;
+  margin-top: 20%;
+}
+
+.poke-card{
+  margin-left: 42%;
+  margin-top: 10%;
+  width: 16%;
+  border-style: double;
+  background-color: burlywood;
+}
+
+.poke-name {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
